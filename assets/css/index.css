@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+
+    /*border:2px solid black;*/
+}
+.contenedor{
+    display:flex;
+    flex-direction: column;
+    width: 600px;
+    text-align: center;
+    align-items: center;
+    /*border: 5px solid forestgreen;*/
+    color: aliceblue;
+
+ 
+   /* background-color: blueviolet;*/
+
+}
+
+.contenedorElementos{
+   /* border: 2px solid cyan;*/
+    background-color:rgb(137, 140, 140)
+    
+
+
+}
